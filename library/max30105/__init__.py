@@ -20,7 +20,6 @@ class LEDModeAdapter(Adapter):
         'off',
         'red',
         'ir',
-        'green',
         'off',
         'pilot_red',
         'pilot_ir',
